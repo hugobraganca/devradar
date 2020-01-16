@@ -40,4 +40,7 @@ module.exports = {
 
         return response.json(dev);
     }
+    // exercícios
+    // async update() { deverá atualizar os dados de um unico dev }
+    // async destroy() { deverá deletar o dev }
 };
